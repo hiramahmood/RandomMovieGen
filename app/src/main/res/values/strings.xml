@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Random Movie Gen</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="gen_button_text">Generate</string>
+    <string name="redo_button_text">Redo</string>
+    <string name="movie_title_text">Movie Title</string>
+    <string name="movie_rating_text">Movie Rating</string>
+    <string name="summary_text">Summary</string>
+
+    <string name="description_text">random movie brought to you for your viewing pleasure</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
